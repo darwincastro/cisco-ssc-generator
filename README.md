@@ -4,7 +4,7 @@
 
 We are going to use a Cisco C9800-CL and a linux maching for this demo, the certificate should work with any IOS-XE devices.
 
-This was tested with OpenSSL v3.   
+This was tested with OpenSSL v1.1.1f and LibreSSL 3.3.6   
 
 ### Steps to generate the certificate bundle:
 1. Clone the repository, and go to the directory.

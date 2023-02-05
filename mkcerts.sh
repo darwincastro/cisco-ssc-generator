@@ -19,11 +19,11 @@ prompt = no
 
 [req_distinguished_name]
 C = US
-ST = California
-L = San Jose
-O = Cisco
-OU = MDT
-CN = cisco.com
+ST = Texas
+L = Lavon
+O = Dar-Fi 
+OU = IT 
+CN = dar-fi.com
 EOF
 ) > ca.cnf
 
@@ -41,10 +41,10 @@ req_extensions = v3_req
 
 [req_distinguished_name]
 C = US
-ST = California
-L = San Jose
-O = Cisco
-OU = MDTG
+ST = Texas
+L = Lavon
+O = Dar-Fi
+OU = IT
 CN = ${1}
 
 [v3_req]
@@ -67,10 +67,10 @@ prompt = no
 
 [req_distinguished_name]
 C = US
-ST = California
-L = San Jose
-O = Cisco
-OU = MDTG
+ST = Texas
+L = Lavon
+O = Dar-Fi
+OU = IT
 CN = ${2}
 EOF
 ) > ${2}.cnf

@@ -1,5 +1,5 @@
 # Cisco SSC Generator 
-(This script will generate 2 CAs certificates, and 2 device certificates at once, if you are looking for a single CA single device certificate please go to the repository: ssc-cisco
+(This script will generate 2 CAs certificates, and 2 device certificates at once, if you are looking for a single CA single device certificate please go to the repository: ssc-cisco)
 
 ## Script to generate self-signed certificates to use on Cisco IOS-XE devices. 
 

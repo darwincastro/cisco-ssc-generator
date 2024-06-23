@@ -116,6 +116,10 @@ At the end, you should get an `import succeeded` like this:
 
 After all, you can use the certificate for a web authentication SSID, or for the web administration of your IOS-XE device!
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
 
 
 
